@@ -1,0 +1,1 @@
+<view class="app-height-100"><rich-text style="height:100%;width:100%;" nodes="{{html}}"></rich-text></view>

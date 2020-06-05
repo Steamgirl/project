@@ -1,0 +1,24 @@
+
+.line.data-v-b5a73660{
+	border-bottom:1rpx solid #ddd;
+	padding:30rpx 0;
+	padding:30rpx
+}
+.btns.data-v-b5a73660{
+	margin-top:50rpx;
+	border-radius:20rpx;
+	padding:20rpx 0;
+	color:#fff;
+}
+.font-asd.data-v-b5a73660{
+	font-size:26rpx;
+	margin-top:40rpx;
+	color:#007AFF
+}
+.padis.data-v-b5a73660{
+	padding:0 30rpx
+}
+.padding.data-v-b5a73660{
+	padding:30rpx
+}
+

@@ -1,0 +1,23 @@
+.padis.data-v-06bad58e {
+  padding: 30rpx;
+}
+.pos-re.data-v-06bad58e {
+  position: relative;
+}
+.font-big.data-v-06bad58e {
+  font-size: 40rpx;
+  margin-right: 20rpx;
+}
+.line.data-v-06bad58e {
+  border-bottom: 1rpx solid #ddd;
+  padding: 30rpx 0;
+}
+.concat.data-v-06bad58e {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+}
+

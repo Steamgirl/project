@@ -1,0 +1,41 @@
+
+.over-auto.data-v-f683818e{
+	overflow: auto;
+}
+.maspd.data-v-f683818e{
+	margin:5rpx;
+	font-size:24rpx
+}
+.font-blue.data-v-f683818e{
+	color:blue
+}
+.read.data-v-f683818e{
+	color:blue
+}
+.padding-sa.data-v-f683818e{
+	padding:20rpx 0;
+}
+.line.data-v-f683818e{
+	padding:30rpx 20rpx;
+	border:1rpx solid #ddd;
+}
+.wids.data-v-f683818e{
+	width:130rpx
+}
+.heihf.data-v-f683818e{
+	height:100rpx;
+}
+.padsa.data-v-f683818e{
+	padding:30rpx 60rpx
+}
+.marf-10.data-v-f683818e{
+	margin-right:20rpx;
+}
+.btn.data-v-f683818e{
+	color:#fff;
+	background: #007AFF;
+	border-radius: 20rpx;
+	padding:20rpx 0;
+	text-align:center
+}
+

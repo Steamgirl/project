@@ -1,0 +1,12 @@
+
+.line.data-v-36001e8e{
+	border-bottom:15rpx solid #ddd;
+	padding:30rpx 20rpx;
+}
+.line.data-v-36001e8e:last-child{
+	border-bottom:1rpx solid #ddd
+}
+.margin-left-20.data-v-36001e8e{
+	margin-left:30rpx
+}
+

@@ -1,0 +1,34 @@
+
+.pasd.data-v-15ff8bdd{
+	padding:20rpx;
+}
+.read.data-v-15ff8bdd{
+	color:blue
+}
+.padsa.data-v-15ff8bdd{
+	padding:0 60rpx
+}
+.marf-10.data-v-15ff8bdd{
+	margin-right:20rpx;
+}
+.font-blue.data-v-15ff8bdd{
+	color:blue
+}
+.padding-sa.data-v-15ff8bdd{
+	padding:20rpx 0;
+}
+.line.data-v-15ff8bdd{
+	border-bottom: 1rpx solid #ddd;
+	padding:60rpx 20rpx 10rpx
+}
+.wids.data-v-15ff8bdd{
+	width:130rpx
+}
+.btn.data-v-15ff8bdd{
+	color:#fff;
+	background: #007AFF;
+	border-radius: 20rpx;
+	padding:20rpx 0;
+	text-align:center
+}
+

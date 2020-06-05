@@ -1,0 +1,25 @@
+
+.line.data-v-63845cff{
+	border-bottom:1rpx solid #ddd;
+	padding:40rpx 0;
+}
+.pading.data-v-63845cff{
+	padding:20rpx
+}
+.btn.data-v-63845cff{
+	color:#fff;
+	border-radius:20rpx;
+	text-align:center;
+	padding:20rpx 0
+}
+.btn-area.data-v-63845cff{
+	padding:60rpx
+}
+.status.data-v-63845cff{
+	font-size:20rpx;
+}
+.font-big.data-v-63845cff{
+	font-size:35rpx;
+	margin-right:10rpx
+}
+

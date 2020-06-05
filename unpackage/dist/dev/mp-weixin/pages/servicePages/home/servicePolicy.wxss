@@ -1,0 +1,17 @@
+
+.top-tit.data-v-da5114e0{
+	font-size:36rpx;
+	text-align: center;
+	padding:10rpx 0
+}
+.sub-tit.data-v-da5114e0{
+	font-size:34rpx;
+	text-indent: 60rpx;
+}
+.wrao-con.data-v-da5114e0{
+	padding:30rpx;
+}
+.view-con.data-v-da5114e0{
+	text-indent: 60rpx;
+}
+

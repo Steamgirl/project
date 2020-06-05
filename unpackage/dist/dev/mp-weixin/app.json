@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/tabbar/home/index",
+    "pages/tabbar/my/index",
+    "pages/servicePages/home/infomation",
+    "pages/servicePages/home/familyInfo",
+    "pages/servicePages/home/authentication",
+    "pages/servicePages/home/bk",
+    "pages/servicePages/home/units",
+    "pages/servicePages/home/servicePolicy",
+    "pages/servicePages/home/detail",
+    "pages/servicePages/home/bkList",
+    "pages/servicePages/my/payList"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#f5f5f5",
+    "color": "#8F8F94",
+    "selectedColor": "#0000FF",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home/index",
+        "iconPath": "static/img/tabbar/home.png",
+        "selectedIconPath": "static/img/tabbar/homeactive.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/my/index",
+        "iconPath": "static/img/tabbar/me.png",
+        "selectedIconPath": "./static/img/tabbar/meactive.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap5.json"
+}

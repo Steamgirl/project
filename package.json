@@ -1,0 +1,26 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "uni-app": {
+	  "scripts": {
+		  "custom-platform": { 
+				"title":"DIY环境", 
+				"BROWSER":"",
+				"env": {
+					"UNI_PLATFORM": "mp-weixin"
+				},
+				"define": { 
+					"CUSTOM-CONST": true
+				}
+			}
+		}
+	},  
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
